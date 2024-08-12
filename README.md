@@ -18,10 +18,6 @@ Bu proje, `Car` sınıfı ile bir arabanın marka, model, renk ve kapı sayısı
 - **.NET Framework / .NET Core:** Proje, C# dilini destekleyen .NET Framework veya .NET Core üzerinde çalışmaktadır.
 - **Visual Studio / VS Code:** Proje geliştirilirken Visual Studio veya VS Code IDE'leri kullanılmıştır.
 
-## Proje Detayları
-
-Bu proje, `Car` sınıfı ile bir arabanın marka, model, renk ve kapı sayısı gibi bilgilerini tutar. `NumberOfDoors` özelliği, yalnızca 2 veya 4 değerlerini kabul edecek şekilde doğrulanır. Geçersiz bir değer girildiğinde, özellik -1 olarak ayarlanır ve uygun bir uyarı mesajı konsola yazdırılır. `CarInformation` metodu, arabanın tüm bilgilerini ekrana yazdırır.
-
 ## Ekstra Bilgiler
 
 - **`Car` Sınıfı:**
